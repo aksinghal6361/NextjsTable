@@ -1,0 +1,2 @@
+# NextjsTable
+Nextjs Table assignment
